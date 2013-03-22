@@ -1,0 +1,16 @@
+{
+    "name": "nasneg/fuel-samplepackage",
+    "type": "fuel-package",
+    "description": "Sample Package for FuelPHP",
+    "keywords": ["fuelphp","package"],
+    "homepage": "https://github.com/nasneg/fuel-samplepackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nasneg",
+        }
+    ],
+    "require": {
+        "composer/installers": "*"
+    }
+}
